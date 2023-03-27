@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    background-color: rgba(113, 241, 237, 0.938);
+    color: rgb(12, 12, 12);
+}
+#Redes{
+    text-align: center;
+    margin: auto;
+}
+ul li{
+    list-style-type: none;
+    margin-left: -2.5%;
+}
+small{
+    font-size: 10px;
+}
